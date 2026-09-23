@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jfyuxim.cn/sitemap.xml

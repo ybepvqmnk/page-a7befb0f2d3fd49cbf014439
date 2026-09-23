@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "2d28c0d1611d40243c6fb16f",
+  "owner": "ybepvqmnk",
+  "repo": "page-a7befb0f2d3fd49cbf014439",
+  "title": "橘子",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "a7befb0f2d3fd49cbf014439",
+      "a": "橘子",
+      "b": "2027官方最新地址导航",
+      "entity": "橘子",
+      "brand": "橘子",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "3aa5cc3509de744567eabb58276063d475853145ab902322c7c2a66b8b0147ef",
+      "content": {
+        "primary_entity": "橘子",
+        "keyword1": "橘子",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备挑选客户端，桌面与移动端各有适配方案。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐并核对设备数量，按客户端文档完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "开始配置橘子",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比提供简洁实际的内容。基础版适合单人或少量设备，旗舰版面向多设备与游戏加速需求，团队版则针对高流量与多人共享场景。桌面端可选用 Clash、Surge、V2RayN 等客户端，移动端可选用 Shadowrocket、Stash、Clash for Android 等客户端，具体兼容情况以客户端文档为准。订阅周期按年支付更划算，基础版按年付 ¥150/年，旗舰版按年付 ¥350/年，团队版按年付 ¥850/年。配置时先确认设备数量与所需流量，再导入订阅链接并选择节点，最后根据客户端提示调整路由规则。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备需求与订阅周期三个方面了解橘子。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 与 3 台设备，旗舰版每月 300GB 与 5 台设备，团队版每月 1000GB 与 20 台设备。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TEXT_2": "旗舰版提供 IPLC 专线游戏加速优化与 7x24 优先工单支持，适合对延迟敏感的使用场景。",
+          "AI_FEATURE_TITLE_2": "关注设备与加速",
+          "AI_FEATURE_TEXT_3": "基础版按年付 ¥150/年，旗舰版按年付 ¥350/年，团队版按年付 ¥850/年，长期使用可选年付。",
+          "AI_FEATURE_TITLE_3": "对比订阅周期",
+          "AI_GUIDE_INTRO": "先选服务与套餐，再核对设备适配要求，最后依客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "三步完成订阅配置",
+          "AI_HERO_INTRO": "橘子提供基础版、旗舰版和团队版三档套餐，覆盖每月 100GB 到 1000GB 流量与 3 到 20 台设备，可按使用人数与场景挑选。",
+          "AI_HERO_SUBTITLE": "挑套餐、配订阅、叠设备",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "年付方案折算更省费用",
+          "AI_PLANS_INTRO": "基础版 ¥15/月适合轻度使用，旗舰版 ¥35/月适合多设备与游戏加速，团队版 ¥85/月适合高流量和多人共享，年付分别为 ¥150/年、¥350/年、¥850/年。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量需求，在基础版、旗舰版、团队版之间选择合适的一档。",
+          "AI_STEP_TITLE_1": "选择服务与套餐",
+          "AI_STEP_TEXT_2": "确认所用设备与操作系统，查看对应客户端文档中的适配要求与安装方式。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "在客户端中导入订阅链接，依次选择节点并调整路由与代理规则，完成配置后即可连接。",
+          "AI_STEP_TITLE_3": "配置订阅并连接",
+          "AI_VISUAL_TITLE": "橘子套餐一页看清",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备，含 IPLC 专线；团队版每月 1000GB、支持 20 台设备，并可定制企业路由。",
+          "AI_FAQ_ANSWER_2": "基础版适合个人日常浏览，3 台设备覆盖手机与电脑；若需要流媒体全解锁或游戏加速，旗舰版的 5 台设备与专线更合适。",
+          "AI_FAQ_ANSWER_3": "在客户端中新建订阅配置，粘贴购买后获得的订阅地址并保存，再更新节点列表即可使用。",
+          "AI_FAQ_ANSWER_4": "可以。年付价格为基础版 ¥150、旗舰版 ¥350、团队版 ¥850，相比按月支付更划算。",
+          "AI_FAQ_ANSWER_5": "团队版支持 20 台设备同时在线，并提供 VIP 专属高带宽节点与专属客户经理，适合小组或企业统一使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "三档套餐在流量和设备数量上有什么区别？",
+          "AI_FAQ_QUESTION_2": "个人使用应该选基础版还是旗舰版？",
+          "AI_FAQ_QUESTION_3": "订阅配置如何导入客户端？",
+          "AI_FAQ_QUESTION_4": "可以按年付吗？年付价格是多少？",
+          "AI_FAQ_QUESTION_5": "团队版多人同时使用有设备限制吗？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jfyuxim.cn",
+    "host": "jfyuxim.cn"
+  },
+  "file_hashes": {
+    "index.html": "8c8e4684a0142a49fe8bd0812f3d28e39bed5623aaf062256cf62d4c035a186b",
+    "sitemap.xml": "1221df83a4fc4efafd489eda427c90ed3c3e274181b6db9422e444d84cf7fa36",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "71a0cf958ad6fc9049b1bbc4eb564d9085fe1892b4467a02c42b4ebfc98358d5",
+    "robots.txt": "7654b83bff4f1ac7817ba909d766a80f609686502a02b3b12815134eedda5459",
+    "be27fff349a8082bbc0398c471da6fa3.txt": "58ec99fee8085331624423c6e3f99286ce50e5f9ca0665e8466c8d286c6ba952"
+  },
+  "revision": "1632a7e54262a6fa9324d65fc4b9a22a239934422029566d7f103216651e7af2"
+}
